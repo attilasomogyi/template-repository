@@ -4,12 +4,12 @@
   background-position: top;
   background-repeat: no-repeat;
   background-size: 5em auto;
-  background-color: lightblue;
+  background-color: yellow;
 }
 
 .wy-side-nav-search .wy-dropdown > a,
 .wy-side-nav-search > a {
-  color: lightblue;
+  color: red;
 }
 
 .wy-side-nav-search > div.version {
