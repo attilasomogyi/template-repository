@@ -1,4 +1,4 @@
-project = 'PlantUML Settings'
+project = 'template-repository'
 copyright = '2022, Attila Zsolt Somogyi'
 author = 'Attila Zsolt Somogyi'
 version = "latest"
