@@ -1,3 +1,10 @@
+## [1.0.5](https://github.com/attilasomogyi/template-repository/compare/v1.0.4...v1.0.5) (2022-10-04)
+
+
+### Bug Fixes
+
+* **costum.css:** fix logo file url ([74ad642](https://github.com/attilasomogyi/template-repository/commit/74ad642fe11ea79def90e6835f961eb0fb881418))
+
 ## [1.0.4](https://github.com/attilasomogyi/template-repository/compare/v1.0.3...v1.0.4) (2022-10-04)
 
 
