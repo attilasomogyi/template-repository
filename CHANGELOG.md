@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/attilasomogyi/template-repository/compare/v1.0.1...v1.0.2) (2022-10-04)
+
+
+### Bug Fixes
+
+* **index:** fix index file ([e3e1f0d](https://github.com/attilasomogyi/template-repository/commit/e3e1f0d57cc6ff469d72383330c74b0ef6e334e9))
+
 ## [1.0.1](https://github.com/attilasomogyi/template-repository/compare/v1.0.0...v1.0.1) (2022-10-04)
 
 
