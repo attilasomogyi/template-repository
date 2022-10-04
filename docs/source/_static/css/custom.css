@@ -1,15 +1,15 @@
 .wy-side-nav-search {
   padding-top: 5em;
-  background-image: url("/plantuml-settings/_static/images/template-repository-logo.svg");
+  background-image: url("/template-repository/_static/images/template-repository-logo.svg");
   background-position: top;
   background-repeat: no-repeat;
   background-size: 5em auto;
-  background-color: yellow;
+  background-color: lightblue;
 }
 
 .wy-side-nav-search .wy-dropdown > a,
 .wy-side-nav-search > a {
-  color: red;
+  color: lightblue;
 }
 
 .wy-side-nav-search > div.version {
