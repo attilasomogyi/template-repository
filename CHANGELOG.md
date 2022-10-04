@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/attilasomogyi/template-repository/compare/v1.0.3...v1.0.4) (2022-10-04)
+
+
+### Bug Fixes
+
+* **changelog:** remove changelog title end of the file ([9dbe872](https://github.com/attilasomogyi/template-repository/commit/9dbe872e7081b1d15c591aeb619962618c9b7987))
+
 ## [1.0.3](https://github.com/attilasomogyi/template-repository/compare/v1.0.2...v1.0.3) (2022-10-04)
 
 
