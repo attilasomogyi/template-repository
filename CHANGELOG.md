@@ -1,3 +1,10 @@
+## [1.0.6](https://github.com/attilasomogyi/template-repository/compare/v1.0.5...v1.0.6) (2022-10-04)
+
+
+### Bug Fixes
+
+* **costum.css:** fix colours ([753daf3](https://github.com/attilasomogyi/template-repository/commit/753daf38f0414c16e70b40c8943358d95d2f6012))
+
 ## [1.0.5](https://github.com/attilasomogyi/template-repository/compare/v1.0.4...v1.0.5) (2022-10-04)
 
 
