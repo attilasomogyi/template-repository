@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/attilasomogyi/template-repository/compare/v1.0.6...v1.1.0) (2022-10-07)
+
+
+### Features
+
+* **editorconfig:** add editor config ([3b3f021](https://github.com/attilasomogyi/template-repository/commit/3b3f02113c423117dd0af2024411b2da4658d16b))
+
 ## [1.0.6](https://github.com/attilasomogyi/template-repository/compare/v1.0.5...v1.0.6) (2022-10-04)
 
 
