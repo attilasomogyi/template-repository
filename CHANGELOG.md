@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/attilasomogyi/template-repository/compare/v1.3.0...v1.4.0) (2022-10-08)
+
+
+### Features
+
+* **extensions:** add vscode extension recommendations ([4c9a627](https://github.com/attilasomogyi/template-repository/commit/4c9a627212c2705998a41f4317236a68b34121e4))
+
 # [1.3.0](https://github.com/attilasomogyi/template-repository/compare/v1.2.0...v1.3.0) (2022-10-08)
 
 
