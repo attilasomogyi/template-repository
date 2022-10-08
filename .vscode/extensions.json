@@ -1,0 +1,24 @@
+{
+    "recommendations": [
+        "redhat.ansible",
+        "asciidoctor.asciidoctor-vscode",
+        "formulahendry.auto-rename-tag",
+        "wmaurer.change-case",
+        "formulahendry.code-runner",
+        "streetsidesoftware.code-spell-checker",
+        "pranaygp.vscode-css-peek",
+        "ms-vscode-remote.remote-containers",
+        "dsznajder.es7-react-js-snippets",
+        "dbaeumer.vscode-eslint",
+        "GrapeCity.gc-excelviewer",
+        "donjayamanne.githistory",
+        "eamodio.gitlens",
+        "ecmel.vscode-html-css",
+        "idleberg.icon-fonts",
+        "wix.vscode-import-cost",
+        "xabikos.JavaScriptSnippets",
+        "ms-vscode.js-debug-nightly",
+        "glenn2223.live-sass",
+        "ritwickdey.LiveServer",
+    ]
+}
