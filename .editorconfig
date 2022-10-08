@@ -21,6 +21,9 @@ max_line_length = 80
 max_line_length = 100
 indent_size = 4
 
+[*.{html, xml, css}]
+
+
 [*.md]
 insert_final_newline = false
 trim_trailing_whitespace = false
