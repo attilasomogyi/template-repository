@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/attilasomogyi/template-repository/compare/v1.1.0...v1.2.0) (2022-10-08)
+
+
+### Features
+
+* **prettierc:** add prettierrc config file ([9a37085](https://github.com/attilasomogyi/template-repository/commit/9a3708562a5b6b0b3846dc51c330f5364811e97f))
+
 # [1.1.0](https://github.com/attilasomogyi/template-repository/compare/v1.0.6...v1.1.0) (2022-10-07)
 
 
