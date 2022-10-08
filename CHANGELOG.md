@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/attilasomogyi/template-repository/compare/v1.2.0...v1.3.0) (2022-10-08)
+
+
+### Features
+
+* **settings:** add vscode workspace settings ([47694fb](https://github.com/attilasomogyi/template-repository/commit/47694fb913060eb33eb4543a86b22fe07a4c8167))
+
 # [1.2.0](https://github.com/attilasomogyi/template-repository/compare/v1.1.0...v1.2.0) (2022-10-08)
 
 
