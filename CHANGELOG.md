@@ -1,3 +1,10 @@
+# [1.5.0](https://github.com/attilasomogyi/template-repository/compare/v1.4.0...v1.5.0) (2022-10-08)
+
+
+### Features
+
+* **editorconfig:** add new sections ([a086e4a](https://github.com/attilasomogyi/template-repository/commit/a086e4a5e38ade50cf2555e6612902aa055064cb))
+
 # [1.4.0](https://github.com/attilasomogyi/template-repository/compare/v1.3.0...v1.4.0) (2022-10-08)
 
 
