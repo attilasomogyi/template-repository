@@ -1,3 +1,10 @@
+# [1.7.0](https://github.com/attilasomogyi/template-repository/compare/v1.6.0...v1.7.0) (2022-10-09)
+
+
+### Features
+
+* **extensions:** add new extensions and sort json file ([bc3f86d](https://github.com/attilasomogyi/template-repository/commit/bc3f86d26407c5025125162c96934f11eb13d870))
+
 # [1.6.0](https://github.com/attilasomogyi/template-repository/compare/v1.5.0...v1.6.0) (2022-10-09)
 
 
