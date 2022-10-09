@@ -1,3 +1,10 @@
+# [1.6.0](https://github.com/attilasomogyi/template-repository/compare/v1.5.0...v1.6.0) (2022-10-09)
+
+
+### Features
+
+* **extensions:** add new extensions ([33845dd](https://github.com/attilasomogyi/template-repository/commit/33845dde7215fe0e9aa02d812f1ec54601f85868))
+
 # [1.5.0](https://github.com/attilasomogyi/template-repository/compare/v1.4.0...v1.5.0) (2022-10-08)
 
 
