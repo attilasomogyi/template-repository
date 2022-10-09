@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/attilasomogyi/template-repository/compare/v1.7.0...v1.7.1) (2022-10-09)
+
+
+### Bug Fixes
+
+* **extensions:** fix json file ([4b4b726](https://github.com/attilasomogyi/template-repository/commit/4b4b726558781a2ebb58982c19a95d77c5ec7c32))
+
 # [1.7.0](https://github.com/attilasomogyi/template-repository/compare/v1.6.0...v1.7.0) (2022-10-09)
 
 
