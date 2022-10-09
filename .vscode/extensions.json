@@ -24,5 +24,10 @@
         "DavidAnson.vscode-markdownlint",
         "James-Yu.latex-workshop",
         "foxundermoon.shell-format",
+        "alefragnani.Bookmarks",
+        "RoyAction.color-manager",
+        "ms-azuretools.vscode-docker",
+        "PascalReitermann93.vscode-yaml-sort",
+        "richie5um2.vscode-sort-json",
     ]
 }
