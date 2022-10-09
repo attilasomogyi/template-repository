@@ -20,5 +20,9 @@
         "ms-vscode.js-debug-nightly",
         "glenn2223.live-sass",
         "ritwickdey.LiveServer",
+        "yzhang.markdown-all-in-one",
+        "DavidAnson.vscode-markdownlint",
+        "James-Yu.latex-workshop",
+        "foxundermoon.shell-format",
     ]
 }
