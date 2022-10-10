@@ -1,3 +1,10 @@
+# [1.10.0](https://github.com/attilasomogyi/template-repository/compare/v1.9.0...v1.10.0) (2022-10-10)
+
+
+### Features
+
+* **pages.yml:** add page deploy ([70a0908](https://github.com/attilasomogyi/template-repository/commit/70a090861e9694bb7cd7764d842456d2c3d74298))
+
 # [1.9.0](https://github.com/attilasomogyi/template-repository/compare/v1.8.0...v1.9.0) (2022-10-10)
 
 
