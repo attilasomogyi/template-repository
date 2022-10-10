@@ -1,3 +1,10 @@
+## [1.10.1](https://github.com/attilasomogyi/template-repository/compare/v1.10.0...v1.10.1) (2022-10-10)
+
+
+### Bug Fixes
+
+* **pages.yml:** add branch name ([f3391ca](https://github.com/attilasomogyi/template-repository/commit/f3391ca7eae910c403dd1c10143d1d36d2b1fae9))
+
 # [1.10.0](https://github.com/attilasomogyi/template-repository/compare/v1.9.0...v1.10.0) (2022-10-10)
 
 
