@@ -13,7 +13,7 @@ jobs:
       - name: Initialize README.md
         run: |
           pip install jinja2-cli
-          jinja2 --strict -D repository_name=$(basename ${{ github.repository }}) repository_owner=${{ github.repository_owner }} .github/workflows/repository-templates/README.md.j2 > README.md
+          jinja2 --strict -D repository_name=$(basename $GITHUB_REPOSITORY) repository_owner=$GITHUB_REPOSITORY_OWNER .github/workflows/repository-templates/README.md.j2 > README.md
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
