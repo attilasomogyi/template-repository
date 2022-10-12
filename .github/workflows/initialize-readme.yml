@@ -13,6 +13,7 @@ jobs:
       - name: Initialize README.md
         run: |
           pip install jinja2-cli
+          set -x
           REPOSITORY_NAME=$(basename $GITHUB_REPOSITORY)
           jinja2 --strict -D repository_name=$REPOSITORY_NAME repository_owner=$GITHUB_REPOSITORY_OWNER .github/workflows/repository-templates/README.md.j2 > README.md
 
