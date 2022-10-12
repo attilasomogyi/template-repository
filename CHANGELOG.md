@@ -1,3 +1,10 @@
+# [1.11.0](https://github.com/attilasomogyi/template-repository/compare/v1.10.1...v1.11.0) (2022-10-12)
+
+
+### Features
+
+* **initialize-readme:** add readme initialize feature ([9a71765](https://github.com/attilasomogyi/template-repository/commit/9a71765adecd60251cf524a3797c6216eef7f702))
+
 ## [1.10.1](https://github.com/attilasomogyi/template-repository/compare/v1.10.0...v1.10.1) (2022-10-10)
 
 
