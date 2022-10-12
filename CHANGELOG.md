@@ -1,3 +1,10 @@
+## [1.11.2](https://github.com/attilasomogyi/template-repository/compare/v1.11.1...v1.11.2) (2022-10-12)
+
+
+### Bug Fixes
+
+* **initialize-readme:** set github environment variables ([567e7de](https://github.com/attilasomogyi/template-repository/commit/567e7decffab0fd380325a0560cfca3a4c070e8d))
+
 ## [1.11.1](https://github.com/attilasomogyi/template-repository/compare/v1.11.0...v1.11.1) (2022-10-12)
 
 
