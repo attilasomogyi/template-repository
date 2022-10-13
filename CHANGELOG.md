@@ -1,3 +1,10 @@
+## [1.11.5](https://github.com/attilasomogyi/template-repository/compare/v1.11.4...v1.11.5) (2022-10-13)
+
+
+### Bug Fixes
+
+* **initialize-readme:** add debug command ([82a427b](https://github.com/attilasomogyi/template-repository/commit/82a427ba8016775a5e55446b4cbbb0200323140f))
+
 ## [1.11.4](https://github.com/attilasomogyi/template-repository/compare/v1.11.3...v1.11.4) (2022-10-12)
 
 
