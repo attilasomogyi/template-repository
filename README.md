@@ -1,6 +1,6 @@
 
 <h1 align="center">
-   Project name
+   Template Repository
 </h1>
 
 <p align="center">
@@ -80,7 +80,7 @@ commands
   />
 <p/>
 
-## Project status
+## Project Status
 
 <p>
   <img
