@@ -1,3 +1,10 @@
+# [1.12.0](https://github.com/attilasomogyi/template-repository/compare/v1.11.5...v1.12.0) (2022-10-19)
+
+
+### Features
+
+* **workflows:** add new worflows ([e646917](https://github.com/attilasomogyi/template-repository/commit/e6469174f40a81e7b7ac5641ca449bd54cc0f0f1))
+
 ## [1.11.5](https://github.com/attilasomogyi/template-repository/compare/v1.11.4...v1.11.5) (2022-10-13)
 
 
